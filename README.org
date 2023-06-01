@@ -1,0 +1,9 @@
+* idna
+
+Common Lisp IDNA encding / decoding functions
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/antifuchs/idna.git |
+| commit  | bf789e6                                   |
+| systems | idna                                      |
+|---------+-------------------------------------------|
